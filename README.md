@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center"> Mars <br><p></p> ✨ 🚀 🪐 </h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mars7383&label=Profile%20views&color=22a83f&style=flat" alt="Mars7383"/></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mars7383&show_icons=true&theme=dark&locale=en" alt="Mars7383"/></p>
 
 <!--
 **Mars7383/Mars7383** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
